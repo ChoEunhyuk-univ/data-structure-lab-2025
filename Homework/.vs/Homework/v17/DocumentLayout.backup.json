@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\\uAC1C\uC778\uD30C\uC77C\\datastructuretest\\Homework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A15B66D-ADDE-4F68-9B01-78FD313D34F3}|SecondHomework\\SecondHomework.vcxproj|E:\\\uAC1C\uC778\uD30C\uC77C\\datastructuretest\\Homework\\SecondHomework\\find_max_pixel.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A15B66D-ADDE-4F68-9B01-78FD313D34F3}|SecondHomework\\SecondHomework.vcxproj|solutionrelative:SecondHomework\\find_max_pixel.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A5BC136-A170-4492-962B-70326DFBC73F}|ThirdHomework\\ThirdHomework.vcxproj|E:\\\uAC1C\uC778\uD30C\uC77C\\datastructuretest\\Homework\\ThirdHomework\\sparsepoly.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1A5BC136-A170-4492-962B-70326DFBC73F}|ThirdHomework\\ThirdHomework.vcxproj|solutionrelative:ThirdHomework\\sparsepoly.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A5BC136-A170-4492-962B-70326DFBC73F}|ThirdHomework\\ThirdHomework.vcxproj|E:\\\uAC1C\uC778\uD30C\uC77C\\datastructuretest\\Homework\\ThirdHomework\\sparsepoly.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1A5BC136-A170-4492-962B-70326DFBC73F}|ThirdHomework\\ThirdHomework.vcxproj|solutionrelative:ThirdHomework\\sparsepoly.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF8D3E1-4AA3-4923-B36D-2E6B0B516B45}|FirstHomework\\FirstHomework.vcxproj|E:\\\uAC1C\uC778\uD30C\uC77C\\datastructuretest\\Homework\\FirstHomework\\array_max.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8CF8D3E1-4AA3-4923-B36D-2E6B0B516B45}|FirstHomework\\FirstHomework.vcxproj|solutionrelative:FirstHomework\\array_max.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "sparsepoly.hpp",
+              "DocumentMoniker": "E:\\\uAC1C\uC778\uD30C\uC77C\\datastructuretest\\Homework\\ThirdHomework\\sparsepoly.hpp",
+              "RelativeDocumentMoniker": "ThirdHomework\\sparsepoly.hpp",
+              "ToolTip": "E:\\\uAC1C\uC778\uD30C\uC77C\\datastructuretest\\Homework\\ThirdHomework\\sparsepoly.hpp",
+              "RelativeToolTip": "ThirdHomework\\sparsepoly.hpp",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-09T00:01:23.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "sparsepoly.cpp",
+              "DocumentMoniker": "E:\\\uAC1C\uC778\uD30C\uC77C\\datastructuretest\\Homework\\ThirdHomework\\sparsepoly.cpp",
+              "RelativeDocumentMoniker": "ThirdHomework\\sparsepoly.cpp",
+              "ToolTip": "E:\\\uAC1C\uC778\uD30C\uC77C\\datastructuretest\\Homework\\ThirdHomework\\sparsepoly.cpp",
+              "RelativeToolTip": "ThirdHomework\\sparsepoly.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-08T12:14:46.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "find_max_pixel.cpp",
+              "DocumentMoniker": "E:\\\uAC1C\uC778\uD30C\uC77C\\datastructuretest\\Homework\\SecondHomework\\find_max_pixel.cpp",
+              "RelativeDocumentMoniker": "SecondHomework\\find_max_pixel.cpp",
+              "ToolTip": "E:\\\uAC1C\uC778\uD30C\uC77C\\datastructuretest\\Homework\\SecondHomework\\find_max_pixel.cpp",
+              "RelativeToolTip": "SecondHomework\\find_max_pixel.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-08T12:13:50.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "array_max.cpp",
+              "DocumentMoniker": "E:\\\uAC1C\uC778\uD30C\uC77C\\datastructuretest\\Homework\\FirstHomework\\array_max.cpp",
+              "RelativeDocumentMoniker": "FirstHomework\\array_max.cpp",
+              "ToolTip": "E:\\\uAC1C\uC778\uD30C\uC77C\\datastructuretest\\Homework\\FirstHomework\\array_max.cpp",
+              "RelativeToolTip": "FirstHomework\\array_max.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-08T12:13:16.429Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
