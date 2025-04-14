@@ -3,19 +3,25 @@
   "WorkspaceRootPath": "E:\\\uAC1C\uC778\uD30C\uC77C\\datastructuretest\\Lec04_Array_Class\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2E3BABA0-1F67-490F-8B86-531975552812}|..\\Lec04_Class\\Lec04_Class.vcxproj|E:\\\uAC1C\uC778\uD30C\uC77C\\datastructuretest\\Lec04_Class\\Sportscar.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{2E3BABA0-1F67-490F-8B86-531975552812}|..\\Lec04_Class\\Lec04_Class.vcxproj|E:\\\uAC1C\uC778\uD30C\uC77C\\datastructuretest\\Lec04_Class\\Music.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2E3BABA0-1F67-490F-8B86-531975552812}|..\\Lec04_Class\\Lec04_Class.vcxproj|E:\\\uAC1C\uC778\uD30C\uC77C\\datastructuretest\\Lec04_Class\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2E3BABA0-1F67-490F-8B86-531975552812}|..\\Lec04_Class\\Lec04_Class.vcxproj|E:\\\uAC1C\uC778\uD30C\uC77C\\datastructuretest\\Lec04_Class\\Complex.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2E3BABA0-1F67-490F-8B86-531975552812}|..\\Lec04_Class\\Lec04_Class.vcxproj|E:\\\uAC1C\uC778\uD30C\uC77C\\datastructuretest\\Lec04_Class\\Car_mockcode.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{2E3BABA0-1F67-490F-8B86-531975552812}|..\\Lec04_Class\\Lec04_Class.vcxproj|E:\\\uAC1C\uC778\uD30C\uC77C\\datastructuretest\\Lec04_Class\\Note.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2E3BABA0-1F67-490F-8B86-531975552812}|..\\Lec04_Class\\Lec04_Class.vcxproj|E:\\\uAC1C\uC778\uD30C\uC77C\\datastructuretest\\Lec04_Class\\ComplexTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3BABA0-1F67-490F-8B86-531975552812}|..\\Lec04_Class\\Lec04_Class.vcxproj|E:\\\uAC1C\uC778\uD30C\uC77C\\datastructuretest\\Lec04_Class\\SportsCar.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3BABA0-1F67-490F-8B86-531975552812}|..\\Lec04_Class\\Lec04_Class.vcxproj|E:\\\uAC1C\uC778\uD30C\uC77C\\datastructuretest\\Lec04_Class\\Car.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3BABA0-1F67-490F-8B86-531975552812}|..\\Lec04_Class\\Lec04_Class.vcxproj|E:\\\uAC1C\uC778\uD30C\uC77C\\datastructuretest\\Lec04_Class\\Complex.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{804A66FE-12D3-4688-B784-EE501967612F}|Lec04_Array_Class.vcxproj|E:\\\uAC1C\uC778\uD30C\uC77C\\datastructuretest\\Lec04_Array_Class\\array_sub.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -29,8 +35,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Music.h",
+              "DocumentMoniker": "E:\\\uAC1C\uC778\uD30C\uC77C\\datastructuretest\\Lec04_Class\\Music.h",
+              "RelativeDocumentMoniker": "..\\Lec04_Class\\Music.h",
+              "ToolTip": "E:\\\uAC1C\uC778\uD30C\uC77C\\datastructuretest\\Lec04_Class\\Music.h",
+              "RelativeToolTip": "..\\Lec04_Class\\Music.h",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-02T00:40:20.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Note.cpp",
+              "DocumentMoniker": "E:\\\uAC1C\uC778\uD30C\uC77C\\datastructuretest\\Lec04_Class\\Note.cpp",
+              "RelativeDocumentMoniker": "..\\Lec04_Class\\Note.cpp",
+              "ToolTip": "E:\\\uAC1C\uC778\uD30C\uC77C\\datastructuretest\\Lec04_Class\\Note.cpp",
+              "RelativeToolTip": "..\\Lec04_Class\\Note.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-02T00:17:07.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SportsCar.h",
+              "DocumentMoniker": "E:\\\uAC1C\uC778\uD30C\uC77C\\datastructuretest\\Lec04_Class\\SportsCar.h",
+              "RelativeDocumentMoniker": "..\\Lec04_Class\\SportsCar.h",
+              "ToolTip": "E:\\\uAC1C\uC778\uD30C\uC77C\\datastructuretest\\Lec04_Class\\SportsCar.h",
+              "RelativeToolTip": "..\\Lec04_Class\\SportsCar.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-02T00:10:16.625Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -39,40 +83,26 @@
               "RelativeDocumentMoniker": "..\\Lec04_Class\\main.cpp",
               "ToolTip": "E:\\\uAC1C\uC778\uD30C\uC77C\\datastructuretest\\Lec04_Class\\main.cpp",
               "RelativeToolTip": "..\\Lec04_Class\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADoAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-31T01:30:51.166Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Sportscar.h",
-              "DocumentMoniker": "E:\\\uAC1C\uC778\uD30C\uC77C\\datastructuretest\\Lec04_Class\\Sportscar.h",
-              "RelativeDocumentMoniker": "..\\Lec04_Class\\Sportscar.h",
-              "ToolTip": "E:\\\uAC1C\uC778\uD30C\uC77C\\datastructuretest\\Lec04_Class\\Sportscar.h",
-              "RelativeToolTip": "..\\Lec04_Class\\Sportscar.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "Car.h",
+              "DocumentMoniker": "E:\\\uAC1C\uC778\uD30C\uC77C\\datastructuretest\\Lec04_Class\\Car.h",
+              "RelativeDocumentMoniker": "..\\Lec04_Class\\Car.h",
+              "ToolTip": "E:\\\uAC1C\uC778\uD30C\uC77C\\datastructuretest\\Lec04_Class\\Car.h",
+              "RelativeToolTip": "..\\Lec04_Class\\Car.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-31T01:18:39.518Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-31T01:18:39.518Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Car_mockcode.cpp",
-              "DocumentMoniker": "E:\\\uAC1C\uC778\uD30C\uC77C\\datastructuretest\\Lec04_Class\\Car_mockcode.cpp",
-              "RelativeDocumentMoniker": "..\\Lec04_Class\\Car_mockcode.cpp",
-              "ToolTip": "E:\\\uAC1C\uC778\uD30C\uC77C\\datastructuretest\\Lec04_Class\\Car_mockcode.cpp",
-              "RelativeToolTip": "..\\Lec04_Class\\Car_mockcode.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-31T01:18:11.065Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "ComplexTest.cpp",
               "DocumentMoniker": "E:\\\uAC1C\uC778\uD30C\uC77C\\datastructuretest\\Lec04_Class\\ComplexTest.cpp",
               "RelativeDocumentMoniker": "..\\Lec04_Class\\ComplexTest.cpp",
@@ -80,12 +110,11 @@
               "RelativeToolTip": "..\\Lec04_Class\\ComplexTest.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-31T00:59:29.493Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-31T00:59:29.493Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Complex.h",
               "DocumentMoniker": "E:\\\uAC1C\uC778\uD30C\uC77C\\datastructuretest\\Lec04_Class\\Complex.h",
               "RelativeDocumentMoniker": "..\\Lec04_Class\\Complex.h",
@@ -93,12 +122,11 @@
               "RelativeToolTip": "..\\Lec04_Class\\Complex.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-31T00:52:12.421Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-31T00:52:12.421Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "array_sub.cpp",
               "DocumentMoniker": "E:\\\uAC1C\uC778\uD30C\uC77C\\datastructuretest\\Lec04_Array_Class\\array_sub.cpp",
               "RelativeDocumentMoniker": "array_sub.cpp",
@@ -106,8 +134,7 @@
               "RelativeToolTip": "array_sub.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-25T23:58:49.434Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-25T23:58:49.434Z"
             }
           ]
         }
