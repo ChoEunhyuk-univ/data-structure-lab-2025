@@ -16,8 +16,8 @@ def bubble_sort(arr):
 
 def problem1(numbers): # 매개변수명을 input에서 numbers로 변경
     '''
-    평균은 input 배열을 for문으로 sum에 적산한 후, 개수로 나누면 될듯.
-    중앙값은 이 input을 소팅해서 가운데 값을 리턴하면 될거같은데?
+    평균은 input 배열을 for문으로 sum에 적산한 후, 개수로 나누어 구함.
+    중앙값은 이 input을 소팅한 후 가운데 값(n//2)을 반환하여 구함
     '''
     # 평균 계산
     sum_val = 0
